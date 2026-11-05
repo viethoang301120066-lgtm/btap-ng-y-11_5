@@ -1,0 +1,16 @@
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\bin\Debug\net10.0-windows\btap 15_10.exe
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\bin\Debug\net10.0-windows\btap 15_10.deps.json
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\bin\Debug\net10.0-windows\btap 15_10.runtimeconfig.json
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\bin\Debug\net10.0-windows\btap 15_10.dll
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\bin\Debug\net10.0-windows\btap 15_10.pdb
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap_15_10.Form1.resources
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap 15_10.csproj.GenerateResource.cache
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap 15_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap 15_10.AssemblyInfoInputs.cache
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap 15_10.AssemblyInfo.cs
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap 15_10.csproj.CoreCompileInputs.cache
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap 15_10.dll
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\refint\btap 15_10.dll
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap 15_10.pdb
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\btap 15_10.genruntimeconfig.cache
+C:\Users\DoNam\source\repos\btap 15_10\btap 15_10\obj\Debug\net10.0-windows\ref\btap 15_10.dll

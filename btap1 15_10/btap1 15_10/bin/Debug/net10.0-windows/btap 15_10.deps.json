@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "btap 15_10/1.0.0": {
+        "runtime": {
+          "btap 15_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "btap 15_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
