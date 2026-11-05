@@ -1,0 +1,16 @@
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\bin\Debug\net10.0-windows\bt2 11_5.exe
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\bin\Debug\net10.0-windows\bt2 11_5.deps.json
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\bin\Debug\net10.0-windows\bt2 11_5.runtimeconfig.json
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\bin\Debug\net10.0-windows\bt2 11_5.dll
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\bin\Debug\net10.0-windows\bt2 11_5.pdb
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2_11_5.Form1.resources
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2 11_5.csproj.GenerateResource.cache
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2 11_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2 11_5.AssemblyInfoInputs.cache
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2 11_5.AssemblyInfo.cs
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2 11_5.csproj.CoreCompileInputs.cache
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2 11_5.dll
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\refint\bt2 11_5.dll
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2 11_5.pdb
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\bt2 11_5.genruntimeconfig.cache
+C:\Users\DoNam\source\repos\bt2 11_5\bt2 11_5\obj\Debug\net10.0-windows\ref\bt2 11_5.dll
